@@ -1,2 +1,2 @@
 # Dignosis_project
-A smart diagnosis system that uses machine learning to predict diseases like diabetes or heart disease based on patient symptoms or input data. The project includes data preprocessing, model training, evaluation, and a simple web interface for user interaction.
+This project involves the design and development of a smart diagnosis system that assists users or professionals in identifying potential diseases or problems based on symptoms or input data. The system leverages decision trees, expert rules, or machine learning models to analyze input and provide diagnostic suggestions. It aims to reduce human error, enhance early detection, and streamline the diagnostic process.
